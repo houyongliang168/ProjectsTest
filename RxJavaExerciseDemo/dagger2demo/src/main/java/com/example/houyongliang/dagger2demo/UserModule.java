@@ -1,5 +1,9 @@
 package com.example.houyongliang.dagger2demo;
 
+import android.util.Log;
+
+import javax.inject.Inject;
+
 import dagger.Module;
 import dagger.Provides;
 
@@ -13,6 +17,7 @@ public class UserModule {
 
     @Provides
     public ApiService provideApiService() {
+        Log.e("UserModule","provideUserManger");
         return new ApiService();
     }
 }

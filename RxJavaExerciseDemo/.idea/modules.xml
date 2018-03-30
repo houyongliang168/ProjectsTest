@@ -5,8 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/RxJavaExerciseDemo.iml" filepath="$PROJECT_DIR$/RxJavaExerciseDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastdemo/broadcastdemo.iml" filepath="$PROJECT_DIR$/broadcastdemo/broadcastdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dagger2demo/dagger2demo.iml" filepath="$PROJECT_DIR$/dagger2demo/dagger2demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database_demo/database_demo.iml" filepath="$PROJECT_DIR$/database_demo/database_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/surfaceviewdemo/surfaceviewdemo.iml" filepath="$PROJECT_DIR$/surfaceviewdemo/surfaceviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdemo/testdemo.iml" filepath="$PROJECT_DIR$/testdemo/testdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/typesviews/typesviews.iml" filepath="$PROJECT_DIR$/typesviews/typesviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-definedview/user-definedview.iml" filepath="$PROJECT_DIR$/user-definedview/user-definedview.iml" />
     </modules>
   </component>

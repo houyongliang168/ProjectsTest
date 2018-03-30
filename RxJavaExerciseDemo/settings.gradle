@@ -1,1 +1,1 @@
-include ':app', ':surfaceviewdemo', ':user-definedview', ':annotation', ':dagger2demo'
+include ':app', ':surfaceviewdemo', ':user-definedview', ':annotation', ':dagger2demo', ':typesviews', ':testdemo', ':database_demo', ':broadcastdemo'
